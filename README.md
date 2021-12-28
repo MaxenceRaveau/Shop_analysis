@@ -10,6 +10,7 @@ To run the Python Django API:
 - enter the directory mysite
 - open cmd in  this directory
 - type "python manage.py runserver"
+- enter url "http://localhost:8000/project" into your browser
 
 Library needed :
 
