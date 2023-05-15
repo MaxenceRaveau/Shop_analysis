@@ -1,5 +1,5 @@
 # PythonForDataAnalysis_FinalProject
-In this repository, you'll find the results of our final project for the course "Python for Data Analysis". This project has been made by Gaëlle RIGAUD and Maxence RAVEAU.
+In this repository, you'll find the results of our final project for the course "Python for Data Analysis". This project has been made by Maxence RAVEAU and Gaëlle Rigaud .
 
 The objectives of this project was to visualize the data and create supervized learning models on a given dataset. Our data set is called "online_shoppers_intentions" and represent consultations of a online shopping website by customers. In machine learning models, the aim is to predict if a consultation will end by a sale or not. 
 
